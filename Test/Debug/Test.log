@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/10/15 20:22:49。
+     1>项目“F:\code\VS\MFC\Test\Test\Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Setup\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Test.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp TestView.cpp
+         TestView.cpp
+         正在生成代码...
+         正在编译...
+         Test.cpp
+         正在生成代码...
+       Link:
+         D:\Setup\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\code\VS\MFC\Test\Debug\Test.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Setup\VS\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\code\VS\MFC\Test\Debug\Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\code\VS\MFC\Test\Debug\Test.lib" /MACHINE:X86 Debug\Test.res
+         Debug\CLine.obj
+         Debug\CRectangle.obj
+         Debug\CShape.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Debug\Test.obj
+         Debug\TestDoc.obj
+         Debug\TestView.obj
+         Test.vcxproj -> F:\code\VS\MFC\Test\Debug\Test.exe
+     1>已完成生成项目“F:\code\VS\MFC\Test\Test\Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.75
